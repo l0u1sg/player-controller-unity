@@ -3,6 +3,14 @@
 Here is a script to easily control your characters for your future video game 
 
 
+# Introduction :
+
+This script contains functions to move your character forward and backward, but also to animate him, make him jump, display his score and a function to check as soon as he is dead. 
+
+It is very easy to understand even for a beginner :)
+
+
+
 ### Installation
 
 Simplest method: click on clone or download then download zip
