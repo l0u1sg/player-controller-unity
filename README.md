@@ -15,7 +15,7 @@ Alternatively, open a terminal and type the following commands:
 $ sudo apt-install git
 $ git clone https://github.com/louisgallet95/player-controller-unity.git
 ```
-### For mac 
+### For Mac 
 
 ```sh
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
